@@ -1,6 +1,3 @@
-/* Melike Yýldýrým */
-/* 2019 */
-
 #include <stdio.h>
 #include <math.h>
 #define PI 3
